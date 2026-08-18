@@ -196,7 +196,7 @@ st.markdown("""
 <div class="btn-container">
     <a class="hero-btn" href="https://agentrouter.org/register?aff=7ali" target="_blank" rel="noopener">Claim $50+ Developer Credits →</a>
 </div>
-<div class="credits"><b>Click to get $50+ free credits</b> and also earn credits by referrals!<br> ( Trick : Make a new git account and get 50$ more into old account ) </div>
+<div class="credits"><b>Click to get $50+ free credits</b> and also earn credits by referrals! </div>
 <div class="tiny">No credit card required. Instant access via GitHub OAuth.</div>
 """, unsafe_allow_html=True)
 
